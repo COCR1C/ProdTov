@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="3afee279-37b8-4d6d-a7dd-395715cad4b5">
+  <name>ПродажаТоваров</name>
+  <synonym>
+    <key>ru</key>
+    <value>Продажа товаров</value>
+  </synonym>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="60446d12-509b-42dd-a756-b39e7d159848"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="eaf1cae1-33a0-4eff-9251-df603a15ddac"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="13e27d7e-82b2-48b6-a480-8efc3f9f8569"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="7f82028e-1416-4b9f-a937-0c7d334a0fcc"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="5fc94943-e82a-4c4c-9eda-3fd46d4a0739"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="06baaaf1-d7c5-4b0b-840f-ec6fc4e514e6"/>
+  <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="43e7d4dc-593c-4f0c-9e77-6f81c260e295"/>
+  <configurationExtensionCompatibilityMode>8.3.17</configurationExtensionCompatibilityMode>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>PersonalComputer</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <requiredMobileApplicationPermissions>
+    <permission>AllowOSBackup</permission>
+    <use>true</use>
+  </requiredMobileApplicationPermissions>
+  <defaultLanguage>Language.Русский</defaultLanguage>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
+  <modalityUseMode>DontUse</modalityUseMode>
+  <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
+  <compatibilityMode>8.3.17</compatibilityMode>
+  <languages uuid="a8e04069-1ae3-4c29-acf8-41916d1b4d30">
+    <name>Русский</name>
+    <synonym>
+      <key>ru</key>
+      <value>Русский</value>
+    </synonym>
+    <languageCode>ru</languageCode>
+  </languages>
+  <catalogs>Catalog.Номенклатура</catalogs>
+  <documents>Document.ПродажаТовара</documents>
+</mdclass:Configuration>
